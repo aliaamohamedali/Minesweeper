@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1482664954 source:c:\users\mourad\desktop\mine-sweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"myheaders.h"
+
+1482664981 c:\users\mourad\desktop\mine-sweeper\myheaders.h
+
+1488027428 source:c:\users\aliaa abbas\desktop\mine-sweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"myheaders.h"
+
+1482664982 c:\users\aliaa abbas\desktop\mine-sweeper\myheaders.h
+
